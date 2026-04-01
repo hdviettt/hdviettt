@@ -6,3 +6,5 @@ I'm 20. I lead an AI Team building production Agentic SEO systems at [SEONGON](h
 
 [![Website](https://img.shields.io/badge/hoangducviet.work-1a1a2e?style=flat-square)](https://hoangducviet.work)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://linkedin.com/in/hdviettt)
+
+**Reach me at:** viethd2704@gmail.com
