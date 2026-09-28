@@ -1,3 +1,3 @@
-I'm Viet, 21 years old. I'm currently the AI Leader for [SEONGON](https://seongon.com) - Vietnam's Top 1 SEO Agency.
+Undergrad at Foreign Trade University (Vietnam), majoring in International Business. Currently interested in supply chain management.
 
-I lead agentic initiatives at my company by upskilling people and building agentic systems. I'm also passionate about how AI changes the way people find and absorb information.
+I have prior experience in AI, from ML, DL, LLM, to modern agentic architectures. 
